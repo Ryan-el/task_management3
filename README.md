@@ -1,6 +1,6 @@
-# task_management
+# task_management Ryan Natanael (2019114004)
 
-A new Flutter project.
+Video 8-10
 
 ## Getting Started
 
